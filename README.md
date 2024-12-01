@@ -92,6 +92,12 @@ Logs are stored in the `logs/` directory:
 
 ---
 
+## Related Projects
+
+- [Cloud Freedom v4](https://github.com/c-razo/cloud-freedom-v4): An advanced AI-driven platform for automating private cloud storage solutions tailored to your needs.
+
+---
+
 ## Contributing
 
 We welcome contributions to enhance the Cloud Freedom Tools. Please follow these steps:
